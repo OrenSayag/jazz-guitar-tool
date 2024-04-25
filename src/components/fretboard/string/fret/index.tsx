@@ -1,6 +1,6 @@
 import { FC } from "react";
-import { cn } from "../../../../src/lib/utils";
-import { FretMark } from "../../../../src/types";
+import { cn } from "../../../../lib/utils";
+import { FretMark } from "../../../../types";
 import StringPattern from "./string-pattern";
 import FretPattern from "./fret-pattern";
 import NoteMark from "./note-mark";

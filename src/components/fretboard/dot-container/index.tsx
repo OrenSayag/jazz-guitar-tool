@@ -1,6 +1,6 @@
 import { FC } from "react";
-import { cn } from "../../../src/lib/utils";
-import { FretRange } from "../../../src/types";
+import { cn } from "../../../lib/utils";
+import { FretRange } from "../../../types";
 import useFretRange from "../../../hooks/use-fret-range";
 import { fretWidthCn } from "../string/fret";
 import DotPattern from "./dot-pattern";

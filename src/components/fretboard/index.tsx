@@ -1,6 +1,6 @@
 import { FC } from "react";
-import { cn } from "../../src/lib/utils";
-import { StringChart } from "../../src/types";
+import { cn } from "../../lib/utils";
+import { StringChart } from "../../types";
 import String from "./string";
 import FretNumeration from "./fret-numeration";
 import DotContainer from "./dot-container";

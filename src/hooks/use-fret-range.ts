@@ -1,4 +1,4 @@
-import { FretRange } from "../src/types";
+import { FretRange } from "../types";
 
 type Input = {
   fretRange: FretRange;
