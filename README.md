@@ -1,3 +1,5 @@
+Work in progress!
+
 POC for jazz guitar tools app, current ideas are:
 
 - Chord chart generator and randomizer:
